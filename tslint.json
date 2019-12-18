@@ -11,5 +11,10 @@
     ],
     "quotemark": false
   },
-  "rulesDirectory": []
+  "rulesDirectory": [],
+  "linterOptions": {
+    "exclude": [
+      "demo"
+    ]
+  }
 }
